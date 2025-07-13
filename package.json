@@ -1,0 +1,27 @@
+{
+  "name": "webhook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GG24612345/Webhook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GG24612345/Webhook/issues"
+  },
+  "homepage": "https://github.com/GG24612345/Webhook#readme",
+  "description": "",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.50.5",
+    "cohere-ai": "^7.17.1",
+    "express": "^5.1.0",
+    "venom-bot": "^5.3.0"
+  }
+}
